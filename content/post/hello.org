@@ -1,0 +1,17 @@
+---
+title: "Hello"
+date: 2022-06-22T23:17:55+02:00
+draft: false
+---
+* Hello World Wide Web!
+
+It has taken long time to make this happend, but finally i publish my first blog. Woww!!!.
+It's really exicted to build a personal site to look back and see all the knowlage you get.
+
+I want to share my little experience in programming and electronics. Apply these concepts in 
+projects would be the main goal. It's always better to make things moving. With patient i'll
+achieve. 
+
+Let's get start...
+
+
